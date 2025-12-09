@@ -1,12 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Easybank Logo" width="120" />
-
-<br /><br />
 
 ## 🏦 Easybank – Digital Banking Website  
 A clean and modern **Digital Banking Landing Page** built using HTML, CSS, and JavaScript.  
