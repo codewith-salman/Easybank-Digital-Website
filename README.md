@@ -35,8 +35,7 @@ Perfect for:
 - Highlighted key features and services  
 - Smooth hover and transition animations  
 - Modern typography and color palette  
-- Lightweight and well-structured code  
-- Ideal for real product or marketing use  
+- Lightweight and well-structured code 
 
 ---
 
