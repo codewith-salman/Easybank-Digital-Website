@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Easybank%20Website/images/desktop-preview.jpg" alt="Easybank Website Logo" width="120"/>
+<img src="Easybank%20Website/images/logo.svg" alt="Easybank Website Logo" width="120"/>
 
 <br />
 <br />
