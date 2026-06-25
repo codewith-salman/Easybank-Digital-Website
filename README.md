@@ -69,8 +69,7 @@ Ideal for:
 - Fully responsive landing page design  
 - Clean financial-product presentation  
 - Highlighted key features and services  
-- Smooth hover and transition animations  
-- Lightweight and well-structured code  
+- Smooth hover and transition animations 
 
 ---
 
