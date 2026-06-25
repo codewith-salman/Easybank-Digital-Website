@@ -70,7 +70,6 @@ Ideal for:
 - Clean financial-product presentation  
 - Highlighted key features and services  
 - Smooth hover and transition animations  
-- Modern typography and color palette  
 - Lightweight and well-structured code  
 
 ---
