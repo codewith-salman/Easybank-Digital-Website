@@ -21,7 +21,6 @@
 <img src="Easybank%20Website/images/logo.svg" alt="Easybank Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🏦 Easybank – Digital Banking Website</h1>
 
@@ -63,8 +62,6 @@ Ideal for:
 - Business and SaaS website concepts  
 - Professional portfolio projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -76,8 +73,6 @@ Ideal for:
 - Modern typography and color palette  
 - Lightweight and well-structured code  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -85,8 +80,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
